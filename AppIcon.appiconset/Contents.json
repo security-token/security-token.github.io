@@ -1,7 +1,5 @@
 {
-  "short_name": "Wallet",
-  "name": "Security Token Wallet",
-  "icons": [
+  "images": [
     {
       "size": "60x60",
       "expected-size": "180",
@@ -418,9 +416,5 @@
       "idiom": "mac",
       "scale": "2x"
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  ]
 }
