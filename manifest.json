@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Security Token Dapp",
+  "name": "Manage your security tokens in a decentralized way.",
   "icons": [
     {
       "src": "favicon.ico",
